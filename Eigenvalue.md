@@ -1,4 +1,5 @@
-In order to represent the equation correctly by LateX, I change the format of this doc into .md(markdown).
+%% In order to represent the equation correctly by LateX, I change the format of this doc into .md(markdown).
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 I used to be confused with the concept of eigenvalue and eigenvector. Just few days ago, when I relearned linear algebra, I got the idea of EIGEN suddenly. I will try to explain it clearly step by step.
 
