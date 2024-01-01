@@ -1,2 +1,2 @@
 I used to be confused with the concept of eigenvalue and eigenvector. Just few days ago, when I relearned linear algebra, I got the idea of EIGEN suddenly. I will manage to explain it clearly.
-In the field of electro-magnetic, the solution of eigen-solver in some software is the frequency of electro-magnetic wave. However, in the respect of mathmatic, the eigenvalue should be $\omega sqrt(\mu\varepsilon)$
+In the field of electro-magnetic, the solution of eigen-solver in some software is the frequency of electro-magnetic wave. However, in the respect of mathmatic, the eigenvalue should be $\omega\sqrt{\mu\varepsilon}$
